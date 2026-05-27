@@ -44,4 +44,4 @@ Open to conversations about football analytics, FPL tooling, or ML applied to sp
 
 ---
 
-*Top 30k India · Top 1.5M overall · Still waiting on United.*
+*Top 23k India · Top 1.1M overall · Still waiting on United.*
