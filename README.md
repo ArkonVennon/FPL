@@ -23,7 +23,7 @@ Tech: `Python` `scikit-learn` `pandas` `OpenAI API` `openpyxl`
 
 I document the thinking behind these projects on Medium — not just the what, but the why and the where-it-still-breaks.
 
-**[→ From Gut Feel to Algorithms: My FPL Data Journey](#)** *(link your Medium post here)*
+**[→ From Gut Feel to Algorithms: My FPL Data Journey](#)** *(https://medium.com/@ThatoneLearner/from-gut-feel-to-algorithms-my-fpl-data-journey-349149774e52)*
 
 ---
 
