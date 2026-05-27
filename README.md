@@ -128,18 +128,6 @@ Severity score accumulates across flags; higher = more urgent transfer.
 
 ---
 
-## Building new features
-
-Some directions worth exploring:
-
-- **Minutes probability model** — classification model predicting start likelihood from press conference NLP + historical rotation patterns
-- **Ensemble predictions** — combine GBM with ridge regression and a small neural net, weight by recent prediction accuracy
-- **Historical training data** — use [vaastav/Fantasy-Premier-League](https://github.com/vaastav/Fantasy-Premier-League) for multi-season training to reduce current-season bias
-- **Live rank-aware strategy** — personalise differential vs. template balance based on your live rank vs. target rank
-- **Real-time injury feed** — ingest official injury news to update player availability probabilities before deadline
-
----
-
 ## Project structure
 
 ```
