@@ -2,7 +2,7 @@
 
 > A machine-learning powered Fantasy Premier League assistant that replaces gut-feel with gradient boosting.
 
-Built and battle-tested over 7 seasons — top **30k in India**, top **1.5M globally** this season.
+Built and battle-tested over 7 seasons — top **23k in India**, top **1.1M globally** this season.
 
 ---
 
