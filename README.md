@@ -13,7 +13,7 @@ I write about football analytics, machine learning, and the overlap between the 
 
 A machine-learning pipeline built on the official FPL API. Pulls live player data, runs position-specific performance analysis, builds a custom fixture difficulty model, and generates transfer recommendations using a GradientBoostingRegressor with an optional LLM sentiment layer.
 
-**[→ View project & documentation](./fpl-analytics/README.md)**
+**[→ View project & documentation](https://github.com/ArkonVennon/FPL/FPL Analytics Assistant)**
 
 Tech: `Python` `scikit-learn` `pandas` `OpenAI API` `openpyxl`
 
